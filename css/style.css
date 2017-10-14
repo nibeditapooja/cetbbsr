@@ -1,0 +1,35 @@
+body{
+    background-color:#FF8C00;
+}
+
+
+#profileName{
+    color: green;
+    font-size: 50px;
+    text-align: center;
+    vertical-align: middle;
+    height: 100%;
+    padding-top: 300px;
+}
+
+#contact{
+    font-family: arial;
+    font-size: 30px;
+    text-align: right
+}
+
+.content-description{
+    font-size: 30px;
+    color: blue;
+    text-align: center
+}
+
+.content-list{
+    font-size: 20px;
+    color: red
+}
+
+.content__background{
+    background-color:#00FA9A;
+}    
+
