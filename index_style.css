@@ -1,0 +1,46 @@
+.card-body{
+          padding: 100px;
+}
+  
+.container-fluid{
+	background-color:#D1C4E9;
+ 	padding-bottom:20%;
+}    
+
+.navbar{
+	background-color:#673AB7 ;
+}
+
+.navbar-header{
+	 width: 320px;
+	 padding: 5px;
+	 margin: 4px;
+	 line-height: 5;
+	 text-align:center;
+}
+
+.row{
+	margin-top:1%;
+	margin-right:5%;
+}
+
+.about{
+	width: 25rem;
+}
+
+.interest{
+	width: 20rem;
+	margin-left:10%;
+}
+
+.ambitions{
+	width: 25rem;
+}
+
+.experience{
+	width: 25rem;
+}
+
+.acheivements{
+	width: 22rem;
+}
